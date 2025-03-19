@@ -1,0 +1,65 @@
+{
+  "LocaleSwitcher": {
+    "label": "Change language",
+    "locale": "{locale, select, vi {Vietnamese} en {English} other {Unknown}}"
+  },
+  "Header": {
+    "policy": "Policy",
+    "help": "Help",
+    "signin": "Sign In",
+    "schedules": "Schedules"
+  },
+
+  "HomePage": {
+    "title": "Find cheap bus tickets for your next trip",
+    "description": "Easily compare and book your next trip with Train Ticket.Hub."
+  },
+  "NotFoundPage": {
+    "title": "Page Not Found",
+    "description": "Oops! It seems like you've stumbled upon a page that doesn't exist. Don't worry, our internationalization magic is still hard at work on other parts of the app. Feel free to navigate back to explore more!"
+  },
+  "Navigation": {
+    "home": "Home"
+  },
+  "Footer": {
+    "copyright": "© 2024 Your App. All rights reserved."
+  },
+  "About": {
+    "about_travel_title": "About Train Travel",
+    "train_travel_tips": "Train Travel Tips",
+    "train_travel_tip_1": "If you're traveling in Vietnam, it's a good idea to learn some basic Vietnamese phrases. Not only will it help you navigate the train stations, but locals will appreciate the effort.",
+    "train_travel_tip_2": "Start enjoying the scenic views as soon as you board your train. If you're on a night train, relax and enjoy the peaceful journey through Vietnam’s landscapes.",
+    "train_travel_tip_3": "Taking the train is an eco-friendly mode of transport. Trains offer a chance to see Vietnam’s beautiful countryside, with views that can’t be matched by flying.",
+    "train_travel_tip_4": "Make sure to pack snacks and drinks, especially on long train journeys. Vietnam’s train stations often offer local food, so try some Vietnamese specialties along the way!",
+    "did_you_know": "Did you know?",
+    "train_origin": "The first trains in Vietnam were introduced by the French colonialists in the late 19th century. The first railway line connected Hanoi and Hai Phong.",
+    "daily_train_departures": "There are hundreds of train departures daily across Vietnam, connecting major cities and remote regions.",
+    "supertrain": "Vietnam is known for its sleeper trains, which provide a comfortable way to travel long distances overnight, but unlike high-speed trains, they are not the fastest mode of travel."
+  },
+  "TopTravel": {
+    "top_travel_routes": "Top Traveled Routes",
+    "from_hanoi_to_sai_gon": "Trains from Hanoi to Saigon",
+    "from_hanoi_to_haiphong": "Trains from Hanoi to Haiphong",
+    "from_hcm_to_nhatrang": "Trains from HCM to Nha Trang",
+    "from_hcm_to_danang": "Trains from HCM to Danang",
+    "from_hanoi_to_hue": "Trains from Hanoi to Hue",
+    "from_hanoi_to_vinh": "Trains from Hanoi to Vinh"
+  },
+  "SubBanner": {
+    "trusted_by": "Trusted by 1M+ travelers every year looking for train tickets",
+    "coverage": "Serving more than 2 million train routes in all provinces and cities.",
+    "support": "Dedicated customer service from booking to travel."
+  },
+  "SearchForm": {
+    "origin": "ORIGIN",
+    "origin_placeholder": "Leaving from...",
+    "destination": "DESTINATION",
+    "destination_placeholder": "Going to...",
+    "date": "DATE",
+    "return_date": "RETURN DATE",
+    "return_date_placeholder": "Optional",
+    "passengers": "Passengers",
+    "submit_button": "Search",
+    "update_submit_button": "Update"
+  }
+}
